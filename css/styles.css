@@ -46,6 +46,9 @@ a:hover{
     margin-right: 30px;
     
 }
+.profile{
+    margin-top: 50px;;
+}
 p{
     line-height: 2;;
 }
@@ -97,6 +100,9 @@ a{
     text-decoration: none;
     margin-right: 30px;
     color: #11999E;
+}
+a:hover{
+    color: #EAF6F6;
 }
 .btn {
     background: #11cdd4;
